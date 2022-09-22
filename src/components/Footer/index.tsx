@@ -6,6 +6,7 @@ const MyFooter = styled.footer`
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 33px;
 `;
 
 const Para = styled.p`
